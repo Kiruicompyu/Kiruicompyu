@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kiruicompyu
+- 👋 Hi, I’m @K
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on web development 
