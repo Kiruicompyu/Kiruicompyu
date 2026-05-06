@@ -21,6 +21,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiruicompyu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+![Snake animation](https://github.com/Kiruicompyu/Kiruicompyu/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kiruicompyu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -36,6 +39,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Kiruicompyu&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kiruicompyu&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitor Count](https://komarev.com/ghpvc/?username=Kiruicompyu&color=blue)
 
 
