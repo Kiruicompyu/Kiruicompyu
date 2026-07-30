@@ -26,8 +26,7 @@
 ---
 
 # 📊 GitHub Stats:
-![Readme Stats]((https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kiruicompyu&theme=dark&count_private=true))<br/>
-![GitHub Streak](https://streak-stats.demolab.com?user=Kiruicompyu&theme=dark&hide_border=false)<br/>
+
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs?username=Kiruicompyu&theme=dark&layout=compact)
 
 ![Alt Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kiruicompyu&theme=github_dark)
