@@ -2,49 +2,50 @@
 [ReadMe.md](https://github.com/user-attachments/files/23244954/ReadMe.md)
 ---
 
-## Bio
+<h1 align="center"> Bio</h1>
 
-```
+<p align="center"> Hi I'M Kipngeno Kirui Enock  👋 </p>
 
- > Hi I'M Kipngeno Kirui Enock  👋
- >
- > I enjoy turning ideas into functional web experiences
- > and exploring new possibilities in mobile development. 
+<p align="center"> I enjoy turning ideas into functional web experiences</p>
+<p align="center"> and exploring new possibilities in mobile development. </p>
 
-```
+
 ---
 
-# 💻 Tech Stack:
+<h2 align="center"> 💻 Tech Stack:</h2>
 
-### Core Technologies:
-
-<p align="center" >
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-</p>
-
-### Frameworks and libraries: 
+<h3 align="center"> Core Technologies: </h3>
 
 <p align="center">
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 </p>
 
-### Currently Exploring
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
+<h3 align="center"> Frameworks and libraries: </h3>
+
+<p align="center" >
+ <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+ <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</p>
+
+<h3 align="center"> Currently Exploring: </h3>
+
+<p align="center">
+ <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+
+</p>
 
 
 ---
 
-# 📊 GitHub Stats:
+<h2 align="center"> 📊 GitHub Stats: </h2>
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs?username=Kiruicompyu&theme=dark&layout=compact)
+<p align="center">
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Kiruicompyu&theme=dark&layout=compact">
+
+</p>
 
 ---
 
@@ -52,7 +53,7 @@
 
 ---
 
-## 🌐 Contacts:
+## 🌐 Contact Me:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Kiruienock2006@gmail.com) 
 
 ---
