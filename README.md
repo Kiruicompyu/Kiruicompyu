@@ -2,10 +2,7 @@
 [ReadMe.md](https://github.com/user-attachments/files/23244954/ReadMe.md)
 ---
 
-<h1 align="center"> Bio</h1>
-
-<p align="center"> Hi I'M Kipngeno Kirui Enock  👋 </p>
-
+<p align="center"><b> Hi I'M Kipngeno Kirui Enock  👋 </b> </p>
 <p align="center"> I enjoy turning ideas into functional web experiences</p>
 <p align="center"> and exploring new possibilities in mobile development. </p>
 
